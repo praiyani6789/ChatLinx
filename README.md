@@ -1,4 +1,4 @@
-# we_chat
+# ChatLinx
 
 A new Flutter project.
 
